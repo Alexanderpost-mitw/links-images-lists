@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Dit is de eerste opdracht bij Wincacadeny </title>
+        <h1>Zo ziet de eerste opdracht eruit</h1>
+        <h2>Alle begin is moeilijk</h2>
+    </head>
+    <body>
+       <!-- hier zet je de code in de body tags-->
+<p>Zo ziet de eerste opdracht eruit</p>
+    </body>
+<hr>Hier de komt de inhoud van de file </html>hr>
+    </html>
